@@ -1,0 +1,23 @@
+body {
+    margin: 0 !important;
+    padding-right: 0 !important;
+    overflow: scroll !important;
+}
+
+a {
+    color: #000 !important;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.TableFilterCell-flexContainer .Editor-root.Mui-disabled::before {
+    display: none !important;
+}
+
+.TableFilterCell-flexContainer .Editor-root .Mui-disabled {
+    display: none !important;
+}
+
+.MuiTableRow-root .TableFixedCell-fixedCell {
+    z-index: 20 !important;
+}

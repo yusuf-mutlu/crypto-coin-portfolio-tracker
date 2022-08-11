@@ -21,7 +21,7 @@ Built with:
 <img src="https://awesomebucket12.s3.us-east-2.amazonaws.com/screen2.png">
 
 ## Demo
-https://cryptotracker.portfoliobox.dev/
+https://cryptotracker.portfoliobox.dev
 
 ## Installation
 

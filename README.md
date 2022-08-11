@@ -21,7 +21,7 @@ Built with:
 <img src="https://awesomebucket12.s3.us-east-2.amazonaws.com/screen2.png">
 
 ## Demo
-https://crypto-coin-portfolio-tracker.herokuapp.com/
+https://cryptotracker.portfoliobox.dev/
 
 ## Installation
 

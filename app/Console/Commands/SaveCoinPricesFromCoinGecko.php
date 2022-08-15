@@ -49,6 +49,7 @@ class SaveCoinPricesFromCoinGecko extends Command
         $priceArray = [];
 
         for ($x = 0; $x <= $coinCount; $x+=500) {
+            sleep(6);
             $coins = Coin::skip($x)->take(500)->pluck('coingecko_id')->toArray();
             $priceData = $client->simple()->getPrice(implode(',' , $coins), 'usd', [
                 'include_market_cap' => 'true',

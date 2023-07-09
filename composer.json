@@ -9,7 +9,7 @@
         "codenix-sv/coingecko-api": "^1.0",
         "fruitcake/laravel-cors": "^2.0.5",
         "guzzlehttp/guzzle": "^7.2",
-        "inertiajs/inertia-laravel": "^0.5.4",
+        "inertiajs/inertia-laravel": "^0.6.9",
         "laravel/framework": "^9.0",
         "laravel/sanctum": "^2.8",
         "laravel/tinker": "^2.7",

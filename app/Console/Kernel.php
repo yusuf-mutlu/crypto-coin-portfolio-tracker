@@ -18,7 +18,7 @@ class Kernel extends ConsoleKernel
     protected function schedule(Schedule $schedule)
     {
         $schedule->command(UpdateDataFromCoinGecko::Class)->everyFourHours();
-        $schedule->command(SaveCoinPricesFromCoinGecko::Class)->everyFiveMinutes();
+        $schedule->command(SaveCoinPricesFromCoinGecko::Class)->everyFifteenMinutes();
     }
 
     /**
